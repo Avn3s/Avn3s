@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Avn3s nice to meet you
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing
-- Mail me at astarcys7@gmail.com
+Hey<br>
+Avnes here<br>
+nice to meet you... I guess<br>
+<br>
+Mail: astarcys7@proton.me<br>
+Discord: avnes_<br>
 
-<!---
-Avn3s/Avn3s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Avnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Avn3s&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca)](https://github.com/anuraghazra/github-readme-stats)
